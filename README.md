@@ -22,6 +22,7 @@ Ya están implementadas la búsqueda lineal, la búsqueda binaria, Merge Sort y 
 - **Quick Sort:** ordena separando los datos alrededor de un pivote; suele tardar **O(n log n)**, aunque en el peor caso puede tardar **O(n²)**.
 
 La resolución manual de la búsqueda binaria está en [mediciones de búsqueda](practicas/mediciones.md#busqueda-binaria-a-mano).
+La comparación medida de Clase 4 está en [comparacion.md](practicas/c4/comparacion.md); se puede repetir con `node practicas/c4/comparacion_busquedas.js`.
 
 ## Análisis
 
