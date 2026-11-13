@@ -24,6 +24,8 @@ Ya están implementadas la búsqueda lineal, la búsqueda binaria, Merge Sort y 
 La resolución manual de la búsqueda binaria está en [mediciones de búsqueda](practicas/mediciones.md#busqueda-binaria-a-mano).
 La comparación medida de Clase 4 está en [comparacion.md](practicas/c4/comparacion.md); se puede repetir con `node practicas/c4/comparacion_busquedas.js`.
 
+El torneo de ordenamientos de Clase 5, con inserción, Merge Sort y Quick Sort, está en [informe.md](practicas/c5/informe.md) y se puede repetir con `node practicas/c5/torneo_ordenamientos.js`.
+
 ## Análisis
 
-Como siguiente etapa, compararé operaciones y tiempos de estos algoritmos con conjuntos de 20, 100, 1.000 y 5.000 registros; los tamaños mayores serán sintéticos. También estudiaré filtros por ubicación y distancia Haversine.
+Como siguientes etapas, ampliaré las mediciones con otros tamaños de datos y estudiaré filtros por ubicación y distancia Haversine.
