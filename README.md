@@ -26,6 +26,8 @@ La comparación medida de Clase 4 está en [comparacion.md](practicas/c4/compara
 
 El torneo de ordenamientos de Clase 5, con inserción, Merge Sort y Quick Sort, está en [informe.md](practicas/c5/informe.md) y se puede repetir con `node practicas/c5/torneo_ordenamientos.js`.
 
+La complejidad estimada de mi proceso actual está en [complejidad_proceso.md](practicas/c3/complejidad_proceso.md). En Clase 6 calculo las recurrencias y justifico la elección de Merge Sort en [eleccion.md](practicas/c6/eleccion.md).
+
 ## Análisis
 
 Como siguientes etapas, ampliaré las mediciones con otros tamaños de datos y estudiaré filtros por ubicación y distancia Haversine.
