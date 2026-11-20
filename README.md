@@ -8,6 +8,12 @@ Proyecto de Análisis de Algoritmos sobre la búsqueda de servicios técnicos po
 - [Proceso a optimizar](h1/proceso-a-optimizar.md): descripción del problema y estimación inicial del tiempo.
 - [Muestra de datos](h1/datos_profesionales.csv): 20 registros públicos con ubicación.
 
+## Entrega H2
+
+- [Inventario de operaciones](hitos/h2/inventario.md): datos y operaciones del caso MANOSCerca.
+- [Estructura elegida](hitos/h2/estructura.md): costos y justificación.
+- [Medición y código](hitos/h2/medicion.md): comparación reproducible entre búsqueda lineal y rango en arreglo ordenado.
+
 El proyecto considera los nueve departamentos. Los 20 registros son una muestra, no un conteo nacional, y no he confirmado que todos los servicios sigan activos. La disponibilidad y las calificaciones quedan vacías cuando la fuente no las informa.
 
 Estimo que una búsqueda manual puede tomar entre 10 y 30 minutos; todavía no lo he medido, así que es una hipótesis por comprobar.
